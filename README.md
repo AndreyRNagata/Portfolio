@@ -1,8 +1,22 @@
-# React + Vite
+# Portfólio | Andrey Nagata
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Bem-vindo ao meu portfólio pessoal desenvolvido com foco em apresentar minhas habilidades, projetos e experiências profissionais de forma interativa e visual.
 
-Currently, two official plugins are available:
+## ✨ Visão Geral
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Este projeto é um site de portfólio moderno, responsivo e com animações, idealizado para destacar meus trabalhos, tecnologias que domino e um pouco sobre quem sou.
+
+## 🚀 Tecnologias Utilizadas
+
+- [React](https://reactjs.org/)
+- [Vite](https://vitejs.dev/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [Framer Motion](https://www.framer.com/motion/) (animações)
+- [EmailJS](https://www.emailjs.com/) (formulário de contato)
+
+## 📦 Como Rodar o Projeto Localmente
+
+1. Clone o repositório:
+
+   ```bash
+   git clone https://github.com/AndreyRNagata/Portfolio.git
